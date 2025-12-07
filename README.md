@@ -1,4 +1,5 @@
-This is my spec :
+# This is my spec :
+
 Motherboard : Asrock B365 Pro4
 CPU : i3 - 9400f
 RAM :  2x8GB DDR4 24666MHz
